@@ -1,6 +1,7 @@
 <h1 align="center"> :fire: Challenge Encriptador One :fire: </h1>
 
 [![encriptador.jpg] (https://i.postimg.cc/9FNzFFg4/encriptador.jpg)] (https://postimg.cc/LnLmxRpR)
+
 puedes visualizarlo en el siguiente link: :computer: https://yesid91rom.github.io/Encriptador-De-Texto/
 
 <h3 align="center">
