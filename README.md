@@ -1,5 +1,5 @@
 <h1 align="center"> :fire: Challenge Encriptador One :fire: </h1>
-https://github.com/YesID91Rom/Encriptador-De-Texto/blob/main/imagenes/encriptador.png
+[![encriptador.jpg](https://i.postimg.cc/9FNzFFg4/encriptador.jpg)](https://postimg.cc/LnLmxRpR)
 
 <h3 align="center">
 Herramienta para encriptar y desencriptar palabras </h3>
