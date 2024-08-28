@@ -1,6 +1,7 @@
 <h1 align="center"> :fire: Challenge Encriptador One :fire: </h1>
 
 [![encriptador.jpg] (https://i.postimg.cc/9FNzFFg4/encriptador.jpg)] (https://postimg.cc/LnLmxRpR)
+puedes visualizarlo en el siguiente link: :computer: https://yesid91rom.github.io/Encriptador-De-Texto/
 
 <h3 align="center">
 Herramienta para encriptar y desencriptar palabras </h3>
@@ -57,4 +58,4 @@ Esta herramienta es compatible con navegadores web modernos, incluidas las últi
 ## :+1: Contribuyendo
 Las contribuciones para mejorar la herramienta son bienvenidas. No dudes en enviar una solicitud de extracción o abrir un problema para cualquier error o solicitud de características.
 
-puedes visualizarlo en el siguiente link: :computer: https://yesid91rom.github.io/Encriptador-De-Texto/
+
