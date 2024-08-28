@@ -30,10 +30,15 @@ Método de Cifrado
 La herramienta utiliza un simple cifrado por sustitución con las siguientes reemplazos:
 
 'e' es reemplazado por 'enter'
+
 'i' es reemplazado por 'imes'
+
 'a' es reemplazado por 'ai'
+
 'o' es reemplazado por 'ober'
+
 'u' es reemplazado por 'ufat'
+
 
 Validación de Entrada:
 La herramienta solo acepta letras minúsculas sin acentos. La interfaz ofrece retroalimentación en tiempo real si se ingresan caracteres inválidos.
