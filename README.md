@@ -51,3 +51,6 @@ Esta herramienta es compatible con navegadores web modernos, incluidas las últi
 
 Contribuyendo
 Las contribuciones para mejorar la herramienta son bienvenidas. No dudes en enviar una solicitud de extracción o abrir un problema para cualquier error o solicitud de características.
+
+puedes visualizarlo en el siguiente link:
+https://yesid91rom.github.io/Encriptador-De-Texto/
